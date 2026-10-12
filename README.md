@@ -301,6 +301,4 @@ This repository exists to bring them together in one organized and visual portfo
 
 <br>
 
-### Create • Style • Experiment • Evolve
-
 </div>
