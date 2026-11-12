@@ -12,11 +12,6 @@ A curated collection of visual web experiments created to explore how far **HTML
 
 From an animated envelope and a paper message to Mjölnir, a Halloween pumpkin and Tux, each project has its own visual identity while remaining lightweight and browser-friendly.
 
-<br>
-
-<br>
-
-**5 creative projects • CSS Art • Interactive experiments • GitHub Pages**
 </div>
 
 ---
