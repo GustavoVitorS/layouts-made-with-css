@@ -128,7 +128,7 @@ A Halloween-themed CSS art experiment centered around the recognizable shape and
 <br><br>
 
 [![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoVitorS/Linux-Drawing)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavovitors.github.io/Linux-Drawing/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavovitors.github.io/Interactive-Linux-Academy/)
 
 </div>
 Linux Drawing began as a Tux illustration built with HTML and CSS and later evolved into an interactive Linux learning experience while preserving the original CSS-art identity.
