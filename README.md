@@ -33,7 +33,7 @@ From an animated envelope and a paper message to Mjölnir, a Halloween pumpkin a
 | Project | Focus | Repository | Live Demo |
 |:--|:--|:--:|:--:|
 | 💌 **CSS Envelope** | CSS illustration / interaction | [Repository](https://github.com/GustavoVitorS/CSS-envelope) | [Open Demo](https://gustavovitors.github.io/CSS-envelope/) |
-| 📜 **Message on Paper** | Paper-style CSS composition | [Repository](https://github.com/GustavoVitorS/Message-on-paper) | [Open Demo](https://gustavovitors.github.io/Message-on-paper/) |
+| 📜 **Message on Paper** | Paper-style CSS composition | [Repository](https://github.com/GustavoVitorS/Message-on-paper) | [Open Demo](https://gustavovitors.github.io/message-on-paper/) |
 | ⚡ **Mjölnir CSS** | CSS pseudo-3D / storm effects | [Repository](https://github.com/GustavoVitorS/Mjolnir-CSS) | [Open Demo](https://gustavovitors.github.io/Mjolnir-CSS/) |
 | 🎃 **Halloween Pumpkin CSS** | Seasonal CSS art | [Repository](https://github.com/GustavoVitorS/Halloween-pumpkin-CSS) | [Open Demo](https://gustavovitors.github.io/halloween-pumpkin-CSS/) |
 | 🐧 **Linux Drawing** | CSS illustration / interactive learning | [Repository](https://github.com/GustavoVitorS/Linux-Drawing) | [Open Demo](https://gustavovitors.github.io/Linux-Drawing/) |
