@@ -105,7 +105,7 @@ A complete evolution of the original Mjölnir CSS experiment. The current versio
 <br><br>
 
 [![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoVitorS/Halloween-pumpkin-CSS)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-F97316?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavovitors.github.io/Halloween-pumpkin-CSS/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-F97316?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavovitors.github.io/halloween-pumpkin-CSS/)
 </div>
 
 A Halloween-themed CSS art experiment centered around the recognizable shape and glow of a carved pumpkin.
