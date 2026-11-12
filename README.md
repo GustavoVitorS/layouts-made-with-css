@@ -6,7 +6,6 @@
 <br>
 
 # 🎨 Layouts Made with CSS
-
 ### CSS Art • Creative Layouts • Front-End Experiments
 
 A curated collection of visual web experiments created to explore how far **HTML and CSS** can go when code is used as a creative medium.
@@ -14,7 +13,6 @@ A curated collection of visual web experiments created to explore how far **HTML
 From an animated envelope and a paper message to Mjölnir, a Halloween pumpkin and Tux, each project has its own visual identity while remaining lightweight and browser-friendly.
 
 <br>
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,13 +21,10 @@ From an animated envelope and a paper message to Mjölnir, a Halloween pumpkin a
 <br>
 
 **5 creative projects • CSS Art • Interactive experiments • GitHub Pages**
-
 </div>
 
 ---
-
 ## 🚀 Quick Access
-
 | Project | Focus | Repository | Live Demo |
 |:--|:--|:--:|:--:|
 | 💌 **CSS Envelope** | CSS illustration / interaction | [Repository](https://github.com/GustavoVitorS/CSS-envelope) | [Open Demo](https://gustavovitors.github.io/CSS-envelope/) |
@@ -37,11 +32,8 @@ From an animated envelope and a paper message to Mjölnir, a Halloween pumpkin a
 | ⚡ **Mjölnir CSS** | CSS pseudo-3D / storm effects | [Repository](https://github.com/GustavoVitorS/Mjolnir-CSS) | [Open Demo](https://gustavovitors.github.io/Mjolnir-CSS/) |
 | 🎃 **Halloween Pumpkin CSS** | Seasonal CSS art | [Repository](https://github.com/GustavoVitorS/Halloween-pumpkin-CSS) | [Open Demo](https://gustavovitors.github.io/halloween-pumpkin-CSS/) |
 | 🐧 **Linux Drawing** | CSS illustration / interactive learning | [Repository](https://github.com/GustavoVitorS/Linux-Drawing) | [Open Demo](https://gustavovitors.github.io/Interactive-Linux-Academy/) |
-
 ---
-
 # ✨ Projects
-
 ## 💌 CSS Envelope
 
 <div align="center">
@@ -54,9 +46,7 @@ From an animated envelope and a paper message to Mjölnir, a Halloween pumpkin a
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-EF476F?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavovitors.github.io/CSS-envelope/)
 
 </div>
-
 A creative envelope illustration built for the browser, using front-end code to reproduce the look and feeling of a physical message.
-
 ### Project focus
 
 - CSS illustration
@@ -67,7 +57,6 @@ A creative envelope illustration built for the browser, using front-end code to 
 - No heavy framework required
 
 ---
-
 ## 📜 Message on Paper
 
 <div align="center">
@@ -80,9 +69,7 @@ A creative envelope illustration built for the browser, using front-end code to 
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-F59E0B?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavovitors.github.io/Message-on-paper/)
 
 </div>
-
 A paper-inspired visual experiment that explores how typography, shadows, spacing and CSS styling can turn a simple message into a more expressive browser composition.
-
 ### Project focus
 
 - Paper-inspired layout
@@ -93,7 +80,6 @@ A paper-inspired visual experiment that explores how typography, shadows, spacin
 - Creative presentation
 
 ---
-
 ## ⚡ Mjölnir CSS — Storm-Forged V2
 
 <div align="center">
@@ -106,9 +92,7 @@ A paper-inspired visual experiment that explores how typography, shadows, spacin
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavovitors.github.io/Mjolnir-CSS/)
 
 </div>
-
 A complete evolution of the original Mjölnir CSS experiment. The current version turns the hammer into a lightweight pseudo-3D CSS object and surrounds it with an interactive storm atmosphere.
-
 ### Highlights
 
 - CSS pseudo-3D hammer
@@ -121,7 +105,6 @@ A complete evolution of the original Mjölnir CSS experiment. The current versio
 - Reduced-motion support
 
 ---
-
 ## 🎃 Halloween Pumpkin CSS
 
 <div align="center">
@@ -132,11 +115,9 @@ A complete evolution of the original Mjölnir CSS experiment. The current versio
 
 [![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoVitorS/Halloween-pumpkin-CSS)
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-F97316?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavovitors.github.io/Halloween-pumpkin-CSS/)
-
 </div>
 
 A Halloween-themed CSS art experiment centered around the recognizable shape and glow of a carved pumpkin.
-
 ### Project focus
 
 - CSS art
@@ -147,7 +128,6 @@ A Halloween-themed CSS art experiment centered around the recognizable shape and
 - Static-browser compatibility
 
 ---
-
 ## 🐧 Linux Drawing — Interactive Linux Academy
 
 <div align="center">
@@ -160,9 +140,7 @@ A Halloween-themed CSS art experiment centered around the recognizable shape and
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavovitors.github.io/Linux-Drawing/)
 
 </div>
-
 Linux Drawing began as a Tux illustration built with HTML and CSS and later evolved into an interactive Linux learning experience while preserving the original CSS-art identity.
-
 ### Highlights
 
 - Tux-inspired CSS illustration
@@ -177,7 +155,6 @@ Linux Drawing began as a Tux illustration built with HTML and CSS and later evol
 - GitHub Pages compatibility
 
 ---
-
 # 🎭 Why This Collection Exists
 
 The projects in **Layouts Made with CSS** were created around a simple idea:
@@ -187,7 +164,6 @@ The projects in **Layouts Made with CSS** were created around a simple idea:
 Instead of focusing only on conventional website sections, this collection explores subjects that can be recreated, styled or transformed through front-end techniques.
 
 The projects cover:
-
 - illustrated objects;
 - decorative layouts;
 - CSS shapes;
@@ -200,11 +176,9 @@ The projects cover:
 - lightweight JavaScript interaction.
 
 ---
-
 ## 🧱 Techniques Used Across the Collection
 
 <div align="center">
-
 | Technique | Purpose |
 |:--|:--|
 | **HTML5** | Semantic structure and visual building blocks |
@@ -216,11 +190,9 @@ The projects cover:
 | **CSS Animation** | Motion and visual feedback |
 | **Vanilla JavaScript** | Lightweight interaction where useful |
 | **GitHub Pages** | Static browser deployment |
-
 </div>
 
 ---
-
 ## 🎨 Collection Identity
 
 This repository intentionally mixes different visual themes:
@@ -246,7 +218,6 @@ BROWSER ART
 ```
 
 ---
-
 ## 📁 Repository Structure
 
 The hub is intentionally kept flat so the files can be uploaded directly through GitHub.
@@ -263,7 +234,6 @@ layouts-made-with-css/
 ```
 
 ---
-
 ## 🖼️ About the Preview Images
 
 The images included in this hub are presentation visuals for the collection.
@@ -273,7 +243,6 @@ If you want to replace any of them later with a **real screenshot of the latest 
 The README will update automatically without requiring any code changes.
 
 ---
-
 ## 🌐 About This Repository
 
 **Layouts Made with CSS** is a central index for my CSS-art and creative front-end projects.
@@ -290,7 +259,6 @@ This repository exists to bring them together in one organized and visual portfo
 ---
 
 <div align="center">
-
 ## 👨‍💻 Gustavo Vitor
 
 **CSS Art • Front-End • Creative Coding • Responsive UI**
