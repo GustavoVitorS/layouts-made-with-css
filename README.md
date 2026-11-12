@@ -57,7 +57,7 @@ A creative envelope illustration built for the browser, using front-end code to 
 <br><br>
 
 [![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoVitorS/Message-on-paper)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-F59E0B?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavovitors.github.io/Message-on-paper/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-F59E0B?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavovitors.github.io/message-on-paper/)
 
 </div>
 A paper-inspired visual experiment that explores how typography, shadows, spacing and CSS styling can turn a simple message into a more expressive browser composition.
